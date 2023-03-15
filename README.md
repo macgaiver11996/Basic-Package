@@ -7,10 +7,6 @@ apt update && apt upgrage -y
 ```
 
 ```
-apt install python -y
-```
-
-```
 apt install git -y
 ```
 
@@ -23,5 +19,5 @@ cd Basic-Package
 ```
 
 ```
-python bscpkg.py
+bash bscpkg.sh
 ```
