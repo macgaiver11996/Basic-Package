@@ -18,7 +18,7 @@ ______       ______ _
 print (logo)
 print ("\x1b[31mCreator : Macgaiver")
 print ("Github  : macgaiver11996")
-print ("Contact : fb.com/macgaiver.parvez\n")
+print ("Contact : fb.com/macgaiver.official\n")
 
 os.system ("apt update -y")
 os.system ("apt upgrade -y")
