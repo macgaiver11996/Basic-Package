@@ -8,6 +8,7 @@ echo
 echo
 echo
 
+clear
 
 apt update
 
